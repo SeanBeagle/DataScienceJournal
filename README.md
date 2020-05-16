@@ -1,5 +1,5 @@
 # DataScience Journal
-### This repository contains notes and tutorials on how I use Python to explore, clean, validate, and analyze data.
+### Notes and tutorials on how I use Python to explore, clean, validate, and analyze data.
 
 1. [Validate Sample Sheet](#validat-sample-sheet)
 1. [Next Journal Entry](#next-journal-entry)
