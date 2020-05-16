@@ -5,6 +5,7 @@
 1. [Next Journal Entry](#next-journal-entry)
 
 ### [Validate Sample Sheet](VerifyCSV.ipynb)
+`pandas` `regex`
 
 This is an example of validating the data to be included in an [Illumina sequencing sample sheet](https://www.illumina.com/content/dam/illumina-marketing/documents/products/technotes/sequencing-sheet-format-specifications-technical-note-970-2017-004.pdf).  I was asked to ensure that all sample names were unique and follow Illumina's formatting guidelines. I also verified that *sample names* started with the corresponding *raw sample names*.
 
