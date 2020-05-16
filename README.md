@@ -10,3 +10,5 @@ This is an example of validating the data that will be included in an [Illumina 
   - No more than 100 characters in length
   - Include only alpha-numeric characters or dashes (-)
 - Sample names start with the Raw Sample names
+
+### 1. [Next Journal Entry](https://www.seanbeagle.com)
